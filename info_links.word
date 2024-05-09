@@ -1,0 +1,11 @@
+Coding Web Crawler in Python with Scrapy: https://www.youtube.com/watch?v=m_3gjHGxIJc&t=16s
+
+first install scrapy
+
+pip install scrapy
+
+getAll - consegue pegar todos os links individuais 
+
+Automated Excel Bot in Python: https://www.youtube.com/watch?v=ZB-3eX9Q6k0
+
+dominio scrapy: https://docs.scrapy.org/en/latest/
